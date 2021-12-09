@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794930596733",
+    "project_id": "univer-b72b5",
+    "storage_bucket": "univer-b72b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794930596733:android:d9e91ea171d623104fda14",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794930596733-3grp2sl66nk73cl686obomk3vmgli16h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0h0W_4XeYYO1mBoUUsmfk_GTOTDkY2wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794930596733-3grp2sl66nk73cl686obomk3vmgli16h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
