@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
                 Mail.error = "Please write correct mail"
                 return@setOnClickListener
             }
-            else if (passwordInput.isEmpty() or (passwordInput.length <= 9) or !(passwordInput.matches(".*[1234567890].*".toRegex()))){
+            else if (passwordInput.isEmpty() or (passwordInput.length <= 9) or !(passwordInput.matches(".*[0-9].*".toRegex())) or !(passwordInput.matches(".*[a-z].*".toRegex()))){
                 Password.error = "Please write correct password"
                 return@setOnClickListener
             }
